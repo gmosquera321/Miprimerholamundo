@@ -1,0 +1,11 @@
+// construir un programa que pida dos numeros y diga si el segundo es multiplo del primero
+
+Public class ejercicio12
+{
+     static void Main (String[] args)
+     {
+
+     int num1, num2
+
+       Console.Write("ingrese el primer numero:");
+       int num1 = Convert.Tolnt32(Console.Readline());  
